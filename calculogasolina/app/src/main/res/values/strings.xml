@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">calculogasolina</string>
+    <string name="calcular">Calcular</string>
+    <string name="pre_o_gasolina">Preço Gasolina</string>
+    <string name="pre_o_etanol">Preço Etanol</string>
+    <string name="gasolina_hint" />
+    <string name="digite_o_pre_o_da_gasolina">Digite o preço da gasolina</string>
+    <string name="insira_o_valor_do_etanol">Insira o valor do etanol</string>
+    <string name="insira_o_valor_da_gasolina">Insira o valor da gasolina</string>
+    <string name="abastecer_com_gasolina">Abastecer com gasolina</string>
+    <string name="abastecer_alcool">Abastecer com álcool</string>
+    <string name="erro_campos_vazios">Preencha os campos corretamente</string>
+</resources>
